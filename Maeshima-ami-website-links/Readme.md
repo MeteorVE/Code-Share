@@ -11,7 +11,7 @@ For example, the js animation doesn't always work properly, many parts have to b
 
 
 
-![](https://cdn.discordapp.com/attachments/888329166611693632/1057035566014791730/2022_12_27_04_39_23_.png)
+![](https://s.meteorv.dev/amitafcclone)
 
 # Tips
 
